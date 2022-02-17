@@ -9,3 +9,4 @@ console.log(escola.replace('3','e'))
 var cores = 'rosa roxo laranja verde azul'
 var resultado = cores.split(' ')[1].replace(/o/g, '0')  //converte em array
 console.log(resultado)
+//
